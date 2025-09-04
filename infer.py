@@ -600,7 +600,7 @@ if __name__ == '__main__':
 
     MODE1 = ["EMA"]
     MODE2 = ["LB"]
-    FOLD = ["fold1", "fold2", "fold3", "fold4", "fold5"]
+    FOLD = [...]
     for mode1 in MODE1:
         for mode2 in MODE2:
             for fold in FOLD:
@@ -613,7 +613,7 @@ if __name__ == '__main__':
 
     MODE1 = ["EMA"]
     MODE2 = ["LB"]
-    FOLD = ["fold1", "fold2", "fold3", "fold4", "fold5"]
+    FOLD = [...]
     for mode1 in MODE1:
         for mode2 in MODE2:
             for fold in FOLD:
